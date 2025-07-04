@@ -19,5 +19,4 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](komiksmr66@mail.ru)  
 
 📊 **Статистика GitHub:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EMPTY032&show_icons=true&theme=default)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EMPTY032&layout=compact)  
