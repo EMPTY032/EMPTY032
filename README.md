@@ -21,6 +21,3 @@
 📫 **Как связаться:**  
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/@empty01234)  
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](komiksmr66@mail.ru)  
-
-📊 **Статистика GitHub:**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EMPTY032&layout=compact)  
