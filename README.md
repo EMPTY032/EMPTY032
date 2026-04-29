@@ -14,7 +14,7 @@
 
 📌 **В поиске работы**
 
-🔨 **Последние проекты:**  
+🔨 **некоторые проекты:**  
 - [Место](https://empty032.github.io/mesto-project-ff/)/[Репозиторий](https://github.com/EMPTY032/mesto-project-ff) – Сайт позволяющий разместить вам фото кого либо места
 - [Закрывающий тег](https://empty032.github.io/zakrivayuschiy-teg-f/)/[Репозиторий](https://github.com/empty032/zakrivayuschiy-teg-f) – Одностраничный сайт, рассказывающий о моей учебе на Практикуме
 
